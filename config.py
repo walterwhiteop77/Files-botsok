@@ -13,7 +13,7 @@ SHORT_API = "f9da968c27a8594f2bbc3b2cd1e8778fa756b3a5"
 SHORT_TUT = "https://t.me/tutorial_filx/3"
 
 # Bot Configuration
-SESSION = "yato"
+SESSION = "flixhd"
 TOKEN = ""
 API_ID = "23685822"
 API_HASH = "ff0572e13ff2f63a50f6dc707e0c4c9f"
