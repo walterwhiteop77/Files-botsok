@@ -9,7 +9,7 @@ OWNER_ID = 6725874739
 MSG_EFFECT = 5046509860389126442
 
 SHORT_URL = "https://filmyflixhd.koyeb.app/api" # shortner url 
-SHORT_API = "" 
+SHORT_API = "f9da968c27a8594f2bbc3b2cd1e8778fa756b3a5" 
 SHORT_TUT = "https://t.me/tutorial_filx/3"
 
 # Bot Configuration
